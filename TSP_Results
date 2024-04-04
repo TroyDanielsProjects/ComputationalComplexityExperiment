@@ -1,0 +1,23 @@
+On the a280.tsp dataset
+
+The average ratio is: 1.760941755306819
+The average time is: 40.33
+The best time is: 34.0 and the worst time is: 120.0
+The best ratio is: 1.579286793027701 and the worst ratio is: 1.9054988542939602
+The median time is: 39.0 and the median ratio is: 1.761078001394459
+
+On the berlin52.tsp dataset
+
+The average ratio is: 1.6170413900317875
+The average time is: 0.51
+The best time is: 0.0 and the worst time is: 1.0
+The best ratio is: 1.4683390532667586 and the worst ratio is: 1.8026829230705517
+The median time is: 1.0 and the median ratio is: 1.6202407954711944
+
+On the ch130.tsp dataset
+
+The average ratio is: 1.6917489981272653
+The average time is: 3.51
+The best time is: 3.0 and the worst time is: 6.0
+The best ratio is: 1.5517840637042717 and the worst ratio is: 1.8998230435607675
+The median time is: 3.0 and the median ratio is: 1.6763436415711641

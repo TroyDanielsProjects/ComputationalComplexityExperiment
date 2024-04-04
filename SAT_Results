@@ -1,0 +1,39 @@
+
+
+The clause to variable Ratio for this set of tests is 0.5
+
+
+The clause to variable Ratio for this set of tests is 1.0
+
+Test with 100 number of variables
+DPLL had a satisfied clause ratio of 1.0 and a average running time of 0.47, best time of: 0.0, worst time of: 9.0, median runtime of: 0.0 and couln't solve 0 instances
+GSAT had a satisfied clause ratio of 0.9529000000000001, best ratio of: 1.0, worst ratio of: 0.87, median ratio of: 0.96 and a average running time of 0.11, best time of: 0.0, worst time of: 2.0, median runtime of: 0.0
+Randomized rounding had a satisfied clause ratio of 0.9902000000000001, best ratio of: 1.0, worst ratio of: 0.9, median ratio of: 1.0 and a average running time of 31.63, best time of: 19.0, worst time of: 405.0, median runtime of: 22.0
+Seven Eighths Approx had a satisfied clause ratio of 0.8828, best ratio of: 0.95, worst ratio of: 0.8, median ratio of: 0.88 and a average running time of 0.04, best time of: 0.0, worst time of: 1.0, median runtime of: 0.0
+
+Test with 200 number of variables
+DPLL had a satisfied clause ratio of 1.0 and a average running time of 0.88, best time of: 0.0, worst time of: 4.0, median runtime of: 1.0 and couln't solve 0 instances
+GSAT had a satisfied clause ratio of 0.9359999999999998, best ratio of: 0.98, worst ratio of: 0.875, median ratio of: 0.94 and a average running time of 0.16, best time of: 0.0, worst time of: 1.0, median runtime of: 0.0
+Randomized rounding had a satisfied clause ratio of 0.99405, best ratio of: 1.0, worst ratio of: 0.955, median ratio of: 1.0 and a average running time of 158.49, best time of: 81.0, worst time of: 525.0, median runtime of: 91.0
+Seven Eighths Approx had a satisfied clause ratio of 0.8773000000000003, best ratio of: 0.92, worst ratio of: 0.815, median ratio of: 0.88 and a average running time of 0.08, best time of: 0.0, worst time of: 1.0, median runtime of: 0.0
+
+Test with 300 number of variables
+DPLL had a satisfied clause ratio of 1.0 and a average running time of 2.16, best time of: 1.0, worst time of: 6.0, median runtime of: 2.0 and couln't solve 0 instances
+GSAT had a satisfied clause ratio of 0.9279333333333335, best ratio of: 0.9633333333333334, worst ratio of: 0.8666666666666667, median ratio of: 0.93 and a average running time of 0.38, best time of: 0.0, worst time of: 1.0, median runtime of: 0.0
+Randomized rounding had a satisfied clause ratio of 0.9931666666666669, best ratio of: 1.0, worst ratio of: 0.9533333333333334, median ratio of: 1.0 and a average running time of 788.01, best time of: 216.0, worst time of: 2028.0, median runtime of: 283.0
+Seven Eighths Approx had a satisfied clause ratio of 0.8741333333333333, best ratio of: 0.9233333333333333, worst ratio of: 0.82, median ratio of: 0.8766666666666667 and a average running time of 0.32, best time of: 0.0, worst time of: 1.0, median runtime of: 0.0
+
+Test with 400 number of variables
+DPLL had a satisfied clause ratio of 1.0 and a average running time of 4.91, best time of: 3.0, worst time of: 20.0, median runtime of: 4.0 and couln't solve 0 instances
+GSAT had a satisfied clause ratio of 0.9176750000000002, best ratio of: 0.9525, worst ratio of: 0.865, median ratio of: 0.92 and a average running time of 0.75, best time of: 0.0, worst time of: 2.0, median runtime of: 1.0
+Randomized rounding had a satisfied clause ratio of 0.9949000000000003, best ratio of: 1.0, worst ratio of: 0.965, median ratio of: 1.0 and a average running time of 1920.49, best time of: 506.0, worst time of: 5069.0, median runtime of: 649.0
+Seven Eighths Approx had a satisfied clause ratio of 0.8790500000000003, best ratio of: 0.9125, worst ratio of: 0.805, median ratio of: 0.88 and a average running time of 0.69, best time of: 0.0, worst time of: 2.0, median runtime of: 1.0
+
+
+The clause to variable Ratio for this set of tests is 2.0
+
+
+The clause to variable Ratio for this set of tests is 4.26
+
+
+The clause to variable Ratio for this set of tests is 6.0

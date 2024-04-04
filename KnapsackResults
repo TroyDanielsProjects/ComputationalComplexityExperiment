@@ -1,0 +1,54 @@
+Test on knapsack with size: 50
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 0.98
+The average min cost time is: 1.86
+The average Two approx time is: 0.12 and the average ratio of Two Approx to opt is: 0.9637419996634412
+The average FPTAS low time is: 1.61 and the average ratio of FPTAS low to opt is: 0.9999244011553385
+The average FPTAS high time is: 1.06 and the average ratio of FPTAS high to opt is: 0.9998156632794974
+
+Test on knapsack with size: 100
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 6.18
+The average min cost time is: 16.92
+The average Two approx time is: 0.01 and the average ratio of Two Approx to opt is: 0.9668774681875355
+The average FPTAS low time is: 12.6 and the average ratio of FPTAS low to opt is: 0.9999879101135175
+The average FPTAS high time is: 7.19 and the average ratio of FPTAS high to opt is: 0.9999646334327228
+
+Test on knapsack with size: 150
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 17.48
+The average min cost time is: 39.16
+The average Two approx time is: 0.03 and the average ratio of Two Approx to opt is: 0.9702799554356715
+The average FPTAS low time is: 32.37 and the average ratio of FPTAS low to opt is: 0.9999925649374173
+The average FPTAS high time is: 16.31 and the average ratio of FPTAS high to opt is: 0.9999816362020784
+
+Test on knapsack with size: 200
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 49.05
+The average min cost time is: 82.79
+The average Two approx time is: 0.09 and the average ratio of Two Approx to opt is: 0.9677685927380079
+The average FPTAS low time is: 70.38 and the average ratio of FPTAS low to opt is: 0.9999959368780964
+The average FPTAS high time is: 34.0 and the average ratio of FPTAS high to opt is: 0.9999876062765027
+
+Test on knapsack with size: 250
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 216.23
+The average min cost time is: 443.08
+The average Two approx time is: 0.21 and the average ratio of Two Approx to opt is: 0.9745517960965218
+The average FPTAS low time is: 371.73 and the average ratio of FPTAS low to opt is: 0.9999969923707432
+The average FPTAS high time is: 193.33 and the average ratio of FPTAS high to opt is: 0.9999922514072928
+
+Test on knapsack with size: 300
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 536.84
+The average min cost time is: 1753.95
+The average Two approx time is: 0.71 and the average ratio of Two Approx to opt is: 0.9719536938688889
+The average FPTAS low time is: 1341.36 and the average ratio of FPTAS low to opt is: 0.9999987939140387
+The average FPTAS high time is: 721.28 and the average ratio of FPTAS high to opt is: 0.9999963270420021
+

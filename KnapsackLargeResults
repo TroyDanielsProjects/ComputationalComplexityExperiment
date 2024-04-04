@@ -1,0 +1,9 @@
+Test on knapsack with size: 300
+
+The number of different solutions between minCost and zeroOne is 0
+The average Zero One time is: 446.43 , the best is : 26.0 , the worst is:  1364.0 , the median is 364.0
+The average min cost time is: 1260.93 , the best is : 406.0 , the worst is:  3417.0 , the median is 1163.0
+The average Two approx time is: 0.61 , the best is : 0.0 , the worst is:  6.0 , the median is 0.0 and the average ratio of Two Approx to opt is: 0.9653623471028486 , the best is : 1.0 , the worst is:  0.878665570421307 , the median is 0.9793403350131086
+The average FPTAS low time is: 1851.41 , the best is : 331.0 , the worst is:  4291.0 , the median is 2009.0 and the average ratio of FPTAS low to opt is: 0.999998956725112 , the best is : 1 , the worst is:  0.0.9999897375598051 , the median is 1.0
+The average FPTAS high time is: 746.27 , the best is : 164.0 , the worst is:  3447.0 , the median is 355.0 and the average ratio of FPTAS high to opt is: 0.9999964942072147 , the best is : 1.0 , the worst is:  0.0.999657375598051 , the median is 1.0
+
